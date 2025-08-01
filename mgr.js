@@ -20,8 +20,8 @@ define(['managerAPI',
     let whiteLabels = [];
 
     if (raceSet == 'a') {
-        blackLabels.push('African Americans');
-        whiteLabels.push('European Americans');
+        blackLabels.push('Black Person');
+        whiteLabels.push('White Person');
     } else {
         blackLabels.push('Black people');
         whiteLabels.push('White people');
